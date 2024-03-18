@@ -1,5 +1,5 @@
 Wikipedia Guessing Game
-Welcome to the Wikipedia Guessing Game project! This project is a result of a three-day hackathon organized by Master School in March 2024. Our team, alongside my project partner Nebil Mohammad, clinched the winning prize in this thrilling event.
+Welcome to the Wikipedia Guessing Game project! This project is a result of a three-day hackathon organized by Master School in March 2024. Our team, clinched the winning prize in this thrilling event.
 
 *Description*
 The Wikipedia Guessing Game is an interactive game built upon the Wikipedia library. Players compete to guess link titles within randomly selected Wikipedia articles, testing their knowledge and accuracy in an exciting challenge.
